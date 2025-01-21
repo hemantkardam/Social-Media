@@ -2,14 +2,6 @@
 
 A responsive and accessible full stack social media web app.
 
-### Preview
-
-![Screenshot](./public/design/preview.webp)
-![Screenshot](./public/design/5.png)
-![Screenshot](./public/design/1.png)
-![Screenshot](./public/design/4.png)
-![Screenshot](./public/design/6.png)
-
 ### Features:
 
 - ✅ Login / Sign Up
